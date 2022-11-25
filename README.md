@@ -1,7 +1,7 @@
-# free_text_period_graph
+# Free text Period Graph
 Graphing period terms in free text
 
-WORK IN PROGRESS
+# **WORK IN PROGRESS**
 
 Open images for non-commercial reuse
 
