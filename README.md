@@ -1,4 +1,4 @@
-# Free text Period Graph
+# Free Text Period Graph
 Graphing period terms in free text
 
 # **WORK IN PROGRESS**
